@@ -18,3 +18,8 @@ body {
     font-family: Arial, sans-serif;
     font-size: 20px;
 }
+
+.recipe-list {
+    font-size: 22px;
+    font-weight: 600;
+}
