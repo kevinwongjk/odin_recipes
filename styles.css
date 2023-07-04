@@ -37,3 +37,11 @@ body {
     margin-bottom: 10px;
     border: 2px solid black;
 }
+
+.chicken-recipe {
+    background-color: rgb(208, 200, 255);
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
