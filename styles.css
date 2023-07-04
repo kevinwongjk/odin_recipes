@@ -29,3 +29,11 @@ body {
 .recipe-list a {
     text-decoration: none;
 }
+
+.shrimp-recipe {
+    background-color: rgb(255, 229, 165);
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
