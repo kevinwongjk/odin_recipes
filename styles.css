@@ -1,5 +1,6 @@
 .odin-recipes {
     background-color: rgb(232, 255, 202);
+    text-align: center;
 }
 
 .pan-fried-shrimp {
@@ -22,4 +23,28 @@ body {
 .recipe-list {
     font-size: 22px;
     font-weight: 600;
+    list-style: none;
+}
+
+.recipe-list li {
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+
+.recipe-list a {
+    text-decoration: none;
+}
+
+.shrimp-recipe {
+    background-color: rgb(255, 229, 165);
+}
+
+.chicken-recipe {
+    background-color: rgb(208, 200, 255);
+}
+
+.burger-recipe {
+    background-color: rgb(200, 242, 255);
 }
