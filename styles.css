@@ -26,30 +26,25 @@ body {
     list-style: none;
 }
 
+.recipe-list li {
+    display: block;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 2px solid black;
+}
+
 .recipe-list a {
     text-decoration: none;
 }
 
 .shrimp-recipe {
     background-color: rgb(255, 229, 165);
-    display: block;
-    padding: 10px;
-    margin-bottom: 10px;
-    border: 2px solid black;
 }
 
 .chicken-recipe {
     background-color: rgb(208, 200, 255);
-    display: block;
-    padding: 10px;
-    margin-bottom: 10px;
-    border: 2px solid black;
 }
 
 .burger-recipe {
     background-color: rgb(200, 242, 255);
-    display: block;
-    padding: 10px;
-    margin-bottom: 10px;
-    border: 2px solid black;
 }
