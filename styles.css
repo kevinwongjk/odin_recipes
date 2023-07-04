@@ -22,6 +22,7 @@ body {
 .recipe-list {
     font-size: 22px;
     font-weight: 600;
+    list-style: none;
 }
 
 .recipe-list a {
